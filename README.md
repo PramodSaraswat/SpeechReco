@@ -1,2 +1,2 @@
 # SpeechReco
-An Python Based Speech Recognition Web App using Flask
+Speech Recognition Web App for Speech-to-Text Transcription Service on audio file uploads with Python and Flask using the SpeechRecognition module.
